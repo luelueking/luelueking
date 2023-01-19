@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luelueking
-- 👀 I’m interested in WEB
-- 🌱 I’m currently learning GraalVM,K8s,中间件安全,微服务安全
+- 👀 I’m interested in WEB安全,中间件安全,微服务安全
+- 🌱 I’m currently learning GraalVM,K8s
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me QQ:2336485988
 
