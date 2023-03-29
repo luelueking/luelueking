@@ -9,6 +9,7 @@
 
 - My CVE Lists
   - [CVE-2022-4566](https://www.cve.org/CVERecord?id=CVE-2022-4566)
+  - [CVE-2023-27821](https://cve.report/CVE-2023-27821)
 
 - My SRC
   - ASRC: 2high 1medium
