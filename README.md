@@ -10,7 +10,7 @@
 - My CVE Lists
   - [CVE-2022-4566](https://www.cve.org/CVERecord?id=CVE-2022-4566)
   - [CVE-2023-27821](https://cve.report/CVE-2023-27821)
-  - [CVE-2023-30331]()
+  - [CVE-2023-30331](https://nvd.nist.gov/vuln/detail/CVE-2023-30331)
 
 <p align="left">
 </p>
