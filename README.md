@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HDU**
 
-- 🌱 I’m currently learning **Kotlin、Cloud**
+- 🌱 I’m currently learning **Kotlin、Cloud、RSocket**
 
 - 📫 How to reach me **QQ:2336485988**
 
