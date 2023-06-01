@@ -8,10 +8,10 @@
 - 📫 How to reach me **QQ:2336485988**
 
 - My CVE Lists
-  - [CVE-2022-4566](https://www.cve.org/CVERecord?id=CVE-2022-4566)
-  - [CVE-2023-27821](https://cve.report/CVE-2023-27821)
-  - [CVE-2023-30331](https://nvd.nist.gov/vuln/detail/CVE-2023-30331)
-  - [CVE-2023-33963](https://github.com/dataease/dataease/security/advisories/GHSA-m26j-gh4m-xh9f)
+  - [CVE-2022-4566](https://www.cve.org/CVERecord?id=CVE-2022-4566) sqli
+  - [CVE-2023-27821](https://cve.report/CVE-2023-27821) spel
+  - [CVE-2023-30331](https://nvd.nist.gov/vuln/detail/CVE-2023-30331) ssti
+  - [CVE-2023-33963](https://github.com/dataease/dataease/security/advisories/GHSA-m26j-gh4m-xh9f) jdbc
 
 <p align="left">
 </p>
