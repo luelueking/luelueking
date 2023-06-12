@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm luelueking</h1>
 <h3 align="center">A computer enthusiast from China</h3>
 
-- 🔭 I’m currently working on **HDU**
+- 🔭 I’m currently Studying on **HDU**
 
 - 🌱 I’m currently learning **Kotlin、Cloud、RSocket**
 
