@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luelueking&show_icons=true&locale=en" alt="luelueking" /></p>
 
 
-- My CVE Lists
+- some useless cve
   - [CVE-2022-4566](https://www.cve.org/CVERecord?id=CVE-2022-4566) sqli
   - [CVE-2023-27821](https://cve.report/CVE-2023-27821) spel
   - [CVE-2023-30331](https://nvd.nist.gov/vuln/detail/CVE-2023-30331) ssti
