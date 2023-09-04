@@ -3,9 +3,13 @@
 
 - 🔭 I’m currently Studying on **HDU**
 
-- 🌱 I’m currently learning **Kotlin、Scala、Cloud、RSocket**
+- 🌱 I’m currently CTFer of **Vidar-Team** & **El3ctronic**
+
+- 🧐 I'm currently Working on **Chatin Web Security Research**
 
 - 📫 How to reach me **QQ:2336485988**
+
+  
 
 <p align="left">
 
