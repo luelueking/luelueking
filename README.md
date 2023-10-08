@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently CTFer of **Vidar-Team** & **El3ctronic**
 
-- 🧐 I'm currently Working on <s>Chatin Web Security Research</s>
+- 🧐 I'm currently Working on
+  -  2023.7 ～ 2023.10 **<s>Chatin Web Security Research</s>**
+  -  Back TO School
 
 - 📫 How to reach me **QQ:2336485988**
 
