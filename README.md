@@ -25,4 +25,5 @@
   - [CVE-2023-33963](https://github.com/dataease/dataease/security/advisories/GHSA-m26j-gh4m-xh9f) jdbc
   - [CVE-2023-51388](https://github.com/dromara/hertzbeat/security/advisories/GHSA-mcqg-gqxr-hqgj) aviatorscript
   - [CVE-2023-51389](https://github.com/dromara/hertzbeat/security/advisories/GHSA-rmvr-9p5x-mm96) snakeyaml
-  - [CVE-2023-51653](https://github.com/dromara/hertzbeat/security/advisories/GHSA-gcmp-vf6v-59gg) jndi 
+  - [CVE-2023-51653](https://github.com/dromara/hertzbeat/security/advisories/GHSA-gcmp-vf6v-59gg) jndi
+  - [CVE-2024-22530](https://github.com/LibrePDF/OpenPDF/issues/999) xxe
