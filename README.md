@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm 1ue</h1>
-<h3 align="center">A computer enthusiast from China</h3>
+<h3 align="center">China computer enthusiast </h3>
 
-- 🔭 I’m currently Studying on **HDU**
+<h3 align="center">🔭 HDU Student</h3>
+<h6 align="center">🌱 CTFer</h6>
+<h3 align="center">@Vidar-Team & @El3ctronic</h3>
+<h6 align="center">2023.7 ～ 2023.10</h6>
+<h3 align="center"><s>Chatin Web Security Researcher</s></h3>
 
-- 🌱 I’m currently CTFer of **Vidar-Team** & **El3ctronic**
-
-- 🧐 I'm currently Working on
-  -  2023.7 ～ 2023.10 **<s>Chatin Web Security Research</s>**
-  -  Back To School
-
-- 📫 How to reach me **QQ:2336485988**
+<h6 align="center">📫 QQ</h6>
+<h3 align="center">MjMzNjQ4NTk4OAo=</h3>
 
   
 
 <p align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luelueking&show_icons=true&locale=en" alt="luelueking" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luelueking&show_icons=true&locale=en" alt="luelueking" /></p>
 
 
-- [SOME_USELESS_CVE](https://github.com/luelueking/luelueking/blob/main/SECURITY.md)
+<h3 align="center"><a href= "https://github.com/luelueking/luelueking/blob/main/SECURITY.md">SOME_USELESS_CVE</a></h3>
