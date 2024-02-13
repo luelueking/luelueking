@@ -18,4 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luelueking&show_icons=true&locale=en" alt="luelueking" /></p>
 
 
-- [some useless cve](https://github.com/luelueking/luelueking/SECURITY.md)
+- [some useless cve](https://github.com/luelueking/luelueking/blob/main/SECURITY.md)
