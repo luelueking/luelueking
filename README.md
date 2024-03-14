@@ -4,8 +4,6 @@
 <h3 align="center">🔭 HDU Student</h3>
 <h6 align="center">🌱 CTFer</h6>
 <h3 align="center">@Vidar-Team & @El3ctronic</h3>
-<h6 align="center">2023.7 ～ 2023.10</h6>
-<h3 align="center"><s>Chatin Web Security Researcher</s></h3>
 
 <h6 align="center">📫 QQ</h6>
 <h3 align="center">MjMzNjQ4NTk4OAo=</h3>
