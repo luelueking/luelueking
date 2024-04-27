@@ -6,3 +6,4 @@
   - [CVE-2023-51389](https://github.com/dromara/hertzbeat/security/advisories/GHSA-rmvr-9p5x-mm96) snakeyaml
   - [CVE-2023-51653](https://github.com/dromara/hertzbeat/security/advisories/GHSA-gcmp-vf6v-59gg) jndi
   - [CVE-2024-22530](https://github.com/LibrePDF/OpenPDF/issues/999) xxe
+  - [CVE-2024-33277](https://github.com/luelueking/RuoYi-v4.7.8-RCE-POC) rce
