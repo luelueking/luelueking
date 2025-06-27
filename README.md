@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm 1ue</h1>
-<h3 align="center">China computer enthusiast </h3>
 
-<h3 align="center">🔭 HDU Student</h3>
 <h6 align="center">🌱 CTFer</h6>
 <h3 align="center">@Vidar-Team & @El3ctronic</h3>
 
