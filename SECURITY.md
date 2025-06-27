@@ -7,4 +7,4 @@
   - [CVE-2023-51653](https://github.com/dromara/hertzbeat/security/advisories/GHSA-gcmp-vf6v-59gg) jndi
   - [CVE-2024-22530](https://github.com/LibrePDF/OpenPDF/issues/999) xxe
   - [CVE-2024-33277](https://github.com/luelueking/RuoYi-v4.7.8-RCE-POC) rce
-  - [CVE-2025-27817] kafka ssrf/fileread
+  - [CVE-2025-27817](https://nvd.nist.gov/vuln/detail/CVE-2025-27817) kafka ssrf/fileread
