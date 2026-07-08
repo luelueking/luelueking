@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="./github-profile-terminal-v2.svg" alt="1ue profile terminal" />
+<img width="100%" src="./github-profile-terminal.svg" alt="1ue profile terminal" />
 
 <br/>
 
