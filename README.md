@@ -52,3 +52,4 @@ contact : MjMzNjQ4NTk4OAo=
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:f472b6,35:7c3aed,70:22d3ee,100:00ff9c" />
 
 </div>
+
