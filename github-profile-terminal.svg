@@ -72,9 +72,9 @@
 
   <line x1="330" y1="48" x2="330" y2="188" class="line" opacity="0.75"/>
 
-  <text x="96" y="80" class="mono body black">Welcome back!</text>
+  <text x="171" y="80" text-anchor="middle" class="mono body black">Welcome back!</text>
 
-  <g transform="translate(148 88) scale(1.9)" shape-rendering="crispEdges">
+  <g transform="translate(120 88) scale(1.65)" shape-rendering="crispEdges">
     <rect x="8" y="0" width="3" height="7" class="avatarDark"/>
     <rect x="7" y="7" width="4" height="5" class="avatarDark"/>
     <rect x="6" y="12" width="5" height="7" class="avatarLight"/>
@@ -109,8 +109,8 @@
     <rect x="19" y="34" width="4" height="3" class="avatarSoft"/>
   </g>
 
-  <text x="54" y="174" class="mono small muted">1ue · Security Research</text>
-  <text x="54" y="190" class="mono small muted">~/profile</text>
+  <text x="171" y="174" text-anchor="middle" class="mono small muted">1ue · Security Research</text>
+  <text x="171" y="190" text-anchor="middle" class="mono small muted">~/profile</text>
 
   <text x="346" y="66" class="mono body pink">Tips for getting started</text>
   <text x="346" y="88" class="mono body black">Run /about to print 1ue's profile</text>
