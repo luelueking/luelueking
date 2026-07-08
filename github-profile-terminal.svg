@@ -1,0 +1,92 @@
+<svg width="1000" height="430" viewBox="0 0 1000 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1000" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ff9c"/>
+      <stop offset="0.45" stop-color="#22d3ee"/>
+      <stop offset="0.72" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="80%">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-color="#7c3aed" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="terminalClip">
+      <rect x="38" y="38" width="924" height="354" rx="18"/>
+    </clipPath>
+    <style>
+      .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
+      .tiny { font-size: 15px; letter-spacing: .6px; }
+      .line { font-size: 22px; }
+      .muted { fill: #64748b; }
+      .cyan { fill: #22d3ee; }
+      .green { fill: #00ff9c; }
+      .pink { fill: #f472b6; }
+      .white { fill: #e5e7eb; }
+      .purple { fill: #a78bfa; }
+      .scan { animation: scan 4.5s linear infinite; }
+      .cursor { animation: blink .85s step-end infinite; }
+      .noise { opacity: .08; }
+      @keyframes scan {
+        from { transform: translateY(-120px); }
+        to { transform: translateY(440px); }
+      }
+      @keyframes blink {
+        0%, 48% { opacity: 1; }
+        49%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="430" rx="28" fill="#020617"/>
+  <rect x="8" y="8" width="984" height="414" rx="24" stroke="url(#border)" stroke-width="3" opacity="0.9"/>
+  <rect x="22" y="22" width="956" height="386" rx="22" fill="url(#glow)"/>
+
+  <g clip-path="url(#terminalClip)">
+    <rect x="38" y="38" width="924" height="354" rx="18" fill="#050816" opacity="0.95"/>
+    <path class="noise" d="M0 68H1000M0 96H1000M0 124H1000M0 152H1000M0 180H1000M0 208H1000M0 236H1000M0 264H1000M0 292H1000M0 320H1000M0 348H1000M0 376H1000" stroke="#22d3ee"/>
+    <rect class="scan" x="38" y="0" width="924" height="96" fill="url(#border)" opacity="0.11"/>
+
+    <rect x="38" y="38" width="924" height="42" fill="#0f172a"/>
+    <circle cx="66" cy="59" r="6" fill="#f87171"/>
+    <circle cx="88" cy="59" r="6" fill="#fbbf24"/>
+    <circle cx="110" cy="59" r="6" fill="#34d399"/>
+    <text x="500" y="64" text-anchor="middle" class="mono tiny muted">root@1ue:~/ops/ghost-bits</text>
+
+    <text x="70" y="118" class="mono line green" filter="url(#softGlow)">
+      <tspan>$ </tspan><tspan class="white">init --operator 1ue</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;1" keyTimes="0;0.03;0.08;0.95;1" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="154" class="mono line cyan">
+      <tspan>[ACCESS]</tspan><tspan class="white"> CTFer / Security Researcher / Bug Hunter</tspan>
+      <animate attributeName="opacity" values="0;0;0;1;1" keyTimes="0;0.12;0.18;0.24;1" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="190" class="mono line purple">
+      <tspan>[TEAM]</tspan><tspan class="white"> Vidar-Team &amp; El3ctronic</tspan>
+      <animate attributeName="opacity" values="0;0;0;1;1" keyTimes="0;0.24;0.3;0.36;1" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="226" class="mono line pink">
+      <tspan>[H1]</tspan><tspan class="white"> hackerone.com/1ue</tspan>
+      <animate attributeName="opacity" values="0;0;0;1;1" keyTimes="0;0.36;0.42;0.48;1" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="262" class="mono line cyan">
+      <tspan>[BHASIA26]</tspan><tspan class="white"> CAST Attack: Ghost Bits in Java</tspan>
+      <animate attributeName="opacity" values="0;0;0;1;1" keyTimes="0;0.48;0.54;0.6;1" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="298" class="mono line green">
+      <tspan>[MODE]</tspan><tspan class="white"> no guess. only proof.</tspan>
+      <animate attributeName="opacity" values="0;0;0;1;1" keyTimes="0;0.6;0.66;0.72;1" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="344" class="mono line white">
+      <tspan class="green">root@1ue</tspan><tspan class="muted">:</tspan><tspan class="cyan">~</tspan><tspan class="muted">#</tspan><tspan> verify impact</tspan><tspan class="cursor green">_</tspan>
+      <animate attributeName="opacity" values="0;0;0;1;1" keyTimes="0;0.72;0.78;0.84;1" dur="7s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
