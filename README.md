@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Hi,%20I'm%201ue&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTFer%20%7C%20Security%20Researcher%20%7C%20Vidar-Team%20%26%20El3ctronic&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:312e81,70:0891b2,100:22d3ee&text=1ue&fontColor=ffffff&fontSize=88&animation=twinkling&stroke=22d3ee&strokeWidth=1&desc=CTFer%20%7C%20Security%20Researcher%20%7C%20Bug%20Hunter&descSize=20&descAlignY=68" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=Capture+The+Flag+Player;Web+Security+%2F+Binary+%2F+Crypto;Breaking+Things,+Learning+Systems;@Vidar-Team+%26+@El3ctronic" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&random=false&width=900&lines=%3E+booting+1ue.exe;%3E+loading+CTF+arsenal...;%3E+scanning+attack+surface...;%3E+pwn+the+challenge%2C+patch+the+world;%3E+Vidar-Team+%26+El3ctronic" />
 
 <br/>
 
-<a href="https://github.com/luelueking/luelueking/blob/main/SECURITY.md">
-  <img src="https://img.shields.io/badge/SOME_USELESS_CVE-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed" />
-</a>
-<img src="https://img.shields.io/badge/CTFer-06b6d4?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-111827?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/CTFer-020617?style=for-the-badge&logo=hackthebox&logoColor=22d3ee&labelColor=020617" />
+<img src="https://img.shields.io/badge/Security_Research-020617?style=for-the-badge&logo=tryhackme&logoColor=a78bfa&labelColor=020617" />
+<img src="https://img.shields.io/badge/Vidar--Team-020617?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=020617" />
+<img src="https://img.shields.io/badge/El3ctronic-020617?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=020617" />
 
 </div>
 
@@ -18,13 +17,14 @@
 
 <table>
 <tr>
-<td width="58%">
+<td width="56%">
 
-### About Me
+### `root@github:~# whoami`
 
 ```txt
-ID        : 1ue
-Focus     : CTF / Security Research / Vulnerability Analysis
-Team      : Vidar-Team & El3ctronic
-Style     : read code, break assumptions, verify everything
-Contact   : MjMzNjQ4NTk4OAo=
+handle      : 1ue
+identity    : CTFer / Security Researcher
+team        : Vidar-Team & El3ctronic
+interest    : web security, code audit, exploit dev
+principle   : no guess, only proof
+contact     : MjMzNjQ4NTk4OAo=
